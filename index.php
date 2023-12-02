@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-<h2>Prueba desde mi maquina</h2>
+<h2>Prueba desde mi maquina!! - Test</h2>
 
 <?php
 var_dump(10.01);
